@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.TowerMap" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#1769AA</item>
+        <item name="android:statusBarColor">#123B5D</item>
+        <item name="android:navigationBarColor">#123B5D</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
